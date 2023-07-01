@@ -8,15 +8,23 @@ This is the repository of the JCIM paper "Supervised Machine Learning Model to P
 Database/
 
 ML_Gibbs_Full_Database.csv: Complete dataset with descriptor calculations
+
 ML_Gibbs_Full_Database.xlsx: Raw complete dataset without descriptors
+
 
 Scripts/
 
 rdkit_conversion.py: Calculation of desired RdKit descriptors using the raw database
+
 model_calculations.py: Model calculations using desired algorithms with all calculated descriptors
+
 model_descriptor_groups.py: Model performance using only best descriptors for model optimization
+
 permutation_importance.py: Routine to determine best descriptors using permuataion importance
+
 solvent_holdout_tests.py: Routine to perform solvent holdout tests using best descriptors
+
+
 
 Results/
 
