@@ -20,7 +20,7 @@ from sklearn.model_selection import RepeatedKFold
 
 #Training - this outpus the performace of each model according with different algorithms
 
-#select models
+#insert desired ML algorithms
 my_model = ["RandomForestRegressor(n_estimators= 250, min_samples_split= 2, min_samples_leaf= 1, max_features='sqrt', max_depth= None, bootstrap= False)", "GradientBoostingRegressor(n_estimators= 250, min_samples_split= 5, min_samples_leaf= 5, max_features= 'sqrt', max_depth= None)"]
 
 #train:test:split
