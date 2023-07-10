@@ -1,6 +1,7 @@
 # GibbsML
 
 This is the repository of the JCIM paper "Supervised Machine Learning Model to Predict Solvation Gibbs Energy".
+The full database is available at Zenodo (https://doi.org/10.5281/zenodo.8121619)
 
 
 # File Overview
